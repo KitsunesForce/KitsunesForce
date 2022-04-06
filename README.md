@@ -1,7 +1,7 @@
 - 👋 Hi, I’m TRO
 - 👀 I’m interested in ...a slice.
 - 🌱 I’m currently learning ...how to acquire it.
-- 💞️ I’m looking to collaborate on ...mars.
+- 💞️ I’m looking to collaborate on ...Mars.
 - 📫 How to reach me ...you don't.
 
 <!---
